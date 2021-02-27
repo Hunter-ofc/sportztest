@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.playerCard {
+  border: 1px solid black;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.playerCard:hover {
+  box-shadow: 2px 2px 5px 5px;
+}
